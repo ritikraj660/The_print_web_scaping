@@ -5,7 +5,7 @@ In this web scraping project work, I scraped data from "The Print" NEWS portal f
 3. Article_Headline 	
 4. Article_Authors 	
 5. TAGS 	
-6.Article_Content
+6. Article_Content
 
 Apart from that did various Data Analysis: 
 1. Top 50 Article Contibutor(find out author have high number of articles publish), 
